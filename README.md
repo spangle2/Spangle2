@@ -50,5 +50,5 @@
 
 ### 📫 Connect With Me
 
-* 🌐 Portfolio: *your-site-here*
-* 📧 Email: *your-email-here*
+* 🌐 Portfolio: *https://spangle2-portfolio.vercel.app/*
+* 📧 Email: *j20581734@gmail.com*
