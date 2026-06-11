@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=" 40px;"/>
-</div>
+
 
 <h1 align="center">Hey there, I'm Jordan</h1>
 
