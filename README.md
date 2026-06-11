@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/02faa2dd-83f0-40bd-956a-c732481932be" style="border-radius: 40px;"/>
+  <img src=" 40px;"/>
 </div>
 
 <h1 align="center">Hey there, I'm Jordan</h1>
